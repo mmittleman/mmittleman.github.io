@@ -61,7 +61,7 @@ Starting my doctoral research, worked as a GSI for ROB 204, and attended my firs
 ---
 
 ### Spring 2026
-Prepping to take my CQE and accepted an offer for a Draper fellowship for funding!
+Prepping to take my CQE, GSI-ing for IOE 535 and accepted an offer for a Draper fellowship for funding!
 
 ---
 
