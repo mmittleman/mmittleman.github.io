@@ -9,8 +9,6 @@ author: Miranda Mittleman
 
 Officially launching a website to track and follow my progress through my PhD! Here are some highlights from my career so far: 
 
-Officially launching a website to track and follow my progress through my PhD! Here are some highlights from my career so far: 
-
 ## Spring 2023
 Graduated from my undergrad of Trinity University with a B.S. in Engineering Science and a Minor in Mathematics! So grateful for my research mentor, Emma Treadway, for all her support!
 
