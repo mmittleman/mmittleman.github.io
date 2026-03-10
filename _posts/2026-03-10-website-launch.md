@@ -26,6 +26,12 @@ Started my masters at Michigan, immediately jumping into classes and looking for
 ![550]({{ '/assets/img/launch/550.png' | relative_url }}){: width="150"}
 ![MBot]({{ '/assets/img/launch/mbot.png' | relative_url }}){: width="150"}
 
+<p style="text-align:center;">
+  <img src="{{ '/assets/img/launch/rob.png' | relative_url }}" alt="Rob" width="150" style="margin-right:10px;">
+  <img src="{{ '/assets/img/launch/550.png' | relative_url }}" alt="550" width="150" style="margin-right:10px;">
+  <img src="{{ '/assets/img/launch/mbot.png' | relative_url }}" alt="MBot" width="150">
+</p>
+
 ---
 
 ## Spring/Summer 2024
