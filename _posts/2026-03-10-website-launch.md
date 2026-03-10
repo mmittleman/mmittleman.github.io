@@ -13,6 +13,10 @@ Graduated from my undergrad of Trinity University with a B.S. in Engineering Sci
 
 ![Undergrad Graduation]({{ '/assets/img/launch/undergrad.jpeg' | relative_url }}){: width="300"}{: .mx-auto.d-block :}
 
+<p style="text-align:center;">
+  <img src="{{ '/assets/img/launch/undergrad.jpeg' | relative_url }}" alt="Undergrad Graduation" width="300">
+</p>
+
 ---
 
 ## Fall 2023
