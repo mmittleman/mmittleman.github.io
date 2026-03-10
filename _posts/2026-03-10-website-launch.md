@@ -21,9 +21,9 @@ Graduated from my undergrad of Trinity University with a B.S. in Engineering Sci
 Started my masters at Michigan, immediately jumping into classes and looking for research opportunities.
 
 <p style="text-align:center;">
-  <img src="{{ '/assets/img/launch/rob.png' | relative_url }}" alt="Rob" width="150" style="margin-right:10px;">
-  <img src="{{ '/assets/img/launch/550.png' | relative_url }}" alt="550" width="150" style="margin-right:10px;">
-  <img src="{{ '/assets/img/launch/mbot.png' | relative_url }}" alt="MBot" width="150">
+  <img src="{{ '/assets/img/launch/rob.png' | relative_url }}" alt="Rob" width="250" style="margin-right:10px;">
+  <img src="{{ '/assets/img/launch/550.png' | relative_url }}" alt="550" width="250" style="margin-right:10px;">
+  <img src="{{ '/assets/img/launch/mbot.png' | relative_url }}" alt="MBot" width="250">
 </p>
 
 ---
@@ -32,8 +32,8 @@ Started my masters at Michigan, immediately jumping into classes and looking for
 Started research for credit with Dr. Kira Barton & Dr. Dawn Tilbury. Also started working for Dr. Leia Stirling, Dr. Mark Draelos, & Dr. Patricia Alves-Oliveira on course development for ROB 204 and ROB 340.
 
 <p style="text-align:center;">
-  <img src="{{ '/assets/img/launch/barton.jpeg' | relative_url }}" alt="barton" width="200" style="margin-right:10px;">
-  <img src="{{ '/assets/img/launch/204 work.jpeg' | relative_url }}" alt="204" width="200" style="margin-right:10px;">
+  <img src="{{ '/assets/img/launch/barton.jpeg' | relative_url }}" alt="barton" width="350" style="margin-right:10px;">
+  <img src="{{ '/assets/img/launch/204 work.jpeg' | relative_url }}" alt="204" width="350" style="margin-right:10px;">
 </p>
 
 ---
@@ -42,8 +42,8 @@ Started research for credit with Dr. Kira Barton & Dr. Dawn Tilbury. Also starte
 Continuing development and GSI-ing for ROB 340 while finishing up my classes and graduating! Officially offered a position as a PhD student in the Stirling Research Group!
 
 <p style="text-align:center;">
-  <img src="{{ '/assets/img/launch/340.jpeg' | relative_url }}" alt="340" width="200" style="margin-right:10px;">
-  <img src="{{ '/assets/img/launch/grad.jpeg' | relative_url }}" alt="grad" width="200" style="margin-right:10px;">
+  <img src="{{ '/assets/img/launch/340.jpeg' | relative_url }}" alt="340" width="350" style="margin-right:10px;">
+  <img src="{{ '/assets/img/launch/grad.jpeg' | relative_url }}" alt="grad" width="350" style="margin-right:10px;">
 </p>
 
 ---
@@ -52,8 +52,8 @@ Continuing development and GSI-ing for ROB 340 while finishing up my classes and
 Starting my doctoral research, worked as a GSI for ROB 204, and attended my first conference, ASPIRE, the 69th HFES International Annual Meeting in Chicago!
 
 <p style="text-align:center;">
-  <img src="{{ '/assets/img/launch/football.jpeg' | relative_url }}" alt="football" width="200" style="margin-right:10px;">
-  <img src="{{ '/assets/img/launch/hfes.jpeg' | relative_url }}" alt="hfes" width="200" style="margin-right:10px;">
+  <img src="{{ '/assets/img/launch/football.jpeg' | relative_url }}" alt="football" width="350" style="margin-right:10px;">
+  <img src="{{ '/assets/img/launch/hfes.jpeg' | relative_url }}" alt="hfes" width="350" style="margin-right:10px;">
 </p>
 
 ---
