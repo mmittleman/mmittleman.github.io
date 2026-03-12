@@ -41,7 +41,7 @@ Started research for credit with Dr. Kira Barton & Dr. Dawn Tilbury. Also starte
 ---
 
 ### Fall 2024/Winter 2025
-Continuing development and GSI-ing for ROB 340 while finishing up my classes and graduating! Officially offered a position as a PhD student in the Stirling Research Group!
+Continuing development and GSI-ing for ROB 340 while finishing up my classes and graduating! Officially offered a position as a PhD student in the [Stirling Research Group]https://stirling.engin.umich.edu/!
 
 <p style="text-align:center;">
   <img src="{{ '/assets/img/launch/340.jpeg' | relative_url }}" alt="340" width="350" style="margin-right:10px;">
