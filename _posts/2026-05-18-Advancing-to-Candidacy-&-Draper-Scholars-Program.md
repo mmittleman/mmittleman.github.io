@@ -8,7 +8,7 @@ mathjax: true
 
 ## Wow, that was Busy
 
-As one might expect, the second semester of my PhD journey was incredibly busy and complicated. Some might even say I _shouldn't_ have expected that, I should have just known it to be true and weathered the storm,
+As one might expect, the second semester of my PhD journey was incredibly busy and complicated. Some might even say I shouldn't have _expected_ that, I should have just _known_ it to be true and weathered the storm,
 continuing on as if everything was normal and not busy or stressful at all. But alas, that is not how I handle education or ambition––this semester was a gauntlet to get through but I am pleased to announce I came out the other side in one piece. 
 
 ### Robotics Qualifying Exam
