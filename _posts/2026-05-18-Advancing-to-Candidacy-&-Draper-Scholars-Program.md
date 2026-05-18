@@ -41,7 +41,7 @@ at-home rehabilitation system which can deliver autonomous exercise feedback. If
 We're still looking to recruit some OT's so if you know anyone that might fit the criteria dictated in the flyer below, please forward them this! It'd be much appreciated. 
 
 <p style="text-align:center;">
-  <img src="{{ '/assets/img/may5th/friends.jpg' | relative_url }}" alt="Recruitment" width="500">
+  <img src="{{ '/assets/img/may5th/flyer.png' | relative_url }}" alt="Recruitment" width="500">
 </p>
 
 ---
