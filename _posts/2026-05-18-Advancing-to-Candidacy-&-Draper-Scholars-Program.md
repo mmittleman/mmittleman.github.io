@@ -36,13 +36,9 @@ support students throughout it. I think these were some of my most busy office h
 
 I also, as you might expect, fully launched my research study to have some pilot results for my exam. I've yet to make a dedicated post about this first study of my research, but I expect to be 
 cataloging that sometime this summer, so once it's completed, look for a hyperlink here. As a short summary in the meantime, we're looking to quantify decisions made by occupational therapists to inform on the design of an 
-at-home rehabilitation system which can deliver autonomous exercise feedback. If that sounds like a lot of words, it's because it is--be on the look out for better words in my future conference paper published on this topic.
+at-home rehabilitation system which can deliver autonomous exercise feedback. If that sounds like a lot of words, it's because it is--–be on the look out for better words in my future conference paper published on this topic.
 
-We're still looking to recruit some OT's so if you know anyone that might fit the criteria dictated in the flyer below, please forward them this! It'd be much appreciated. 
-
-<p style="text-align:center;">
-  <img src="{{ '/assets/img/may5th/flyer.png' | relative_url }}" alt="Recruitment" width="500">
-</p>
+We're still looking to recruit some OT's so if you know anyone that might fit the criteria dictated in the flyer below, please contact me! It'd be much appreciated. 
 
 ---
 
