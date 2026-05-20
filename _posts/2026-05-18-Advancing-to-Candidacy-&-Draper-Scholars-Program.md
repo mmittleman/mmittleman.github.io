@@ -38,7 +38,7 @@ I also, as you might expect, fully launched my research study to have some pilot
 cataloging that sometime this summer, so once it's completed, look for a hyperlink here. As a short summary in the meantime, we're looking to quantify decisions made by occupational therapists to inform on the design of an 
 at-home rehabilitation system which can deliver autonomous exercise feedback. If that sounds like a lot of words, it's because it is--–be on the look out for better words in my future conference paper published on this topic.
 
-We're still looking to recruit some OT's so if you know anyone that might fit the criteria dictated in the flyer below, please contact me! It'd be much appreciated. 
+We're still looking to recruit some OT's so if you know anyone that might fit the criteria, please contact me! It'd be much appreciated. 
 
 ---
 
