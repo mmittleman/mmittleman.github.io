@@ -31,7 +31,7 @@ Started my masters at Michigan, immediately jumping into classes and looking for
 ---
 
 ### Spring/Summer 2024
-Started research for credit with Dr. Kira Barton & Dr. Dawn Tilbury. Also started working for Dr. Leia Stirling, Dr. Mark Draelos, & Dr. Patricia Alves-Oliveira on course development for ROB 204 and ROB 340.
+Started research for credit with Dr. Kira Barton & Dr. Dawn Tilbury. Also started working for Dr. Leia Stirling, Dr. Mark Draelos, & Dr. Patricia Alves-Oliveira on course development for [ROB 204](https://robotics.umich.edu/academics/courses/course-offerings/rob-204-winter-2022/) and [ROB 340](https://studiorobot.github.io/rob340/).
 
 <p style="text-align:center;">
   <img src="{{ '/assets/img/launch/barton.jpeg' | relative_url }}" alt="barton" width="350" style="margin-right:10px;">
@@ -51,7 +51,7 @@ Continuing development and GSI-ing for ROB 340 while finishing up my classes and
 ---
 
 ### Summer/Fall 2025
-Starting my doctoral research, worked as a GSI for ROB 204, and attended my first conference, ASPIRE, the 69th HFES International Annual Meeting in Chicago!
+Starting my doctoral research, worked as a GSI for ROB 204, and attended my first conference, [ASPIRE](https://www.hfes.org/Events/ASPIRE-International-Annual-Meeting/About-the-2025-Meeting/About-the-2025-Meeting-), the 69th HFES International Annual Meeting in Chicago!
 
 <p style="text-align:center;">
   <img src="{{ '/assets/img/launch/football.jpeg' | relative_url }}" alt="football" width="350" style="margin-right:10px;">
