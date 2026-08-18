@@ -45,7 +45,7 @@ We're still looking to recruit some OT's so if you know anyone that might fit th
 ### Draper Scholars Program 
 
 Last, but most certainly not least, I was formally extended an offer from Draper through the Draper Scholars Program! This work is on a project in a wildly differing field (hint: think space) that I'm planning 
-on working on learning all about this summer. I'd be advised by Leia's first ever PhD student, Dr. Sherrie Holden and a fellow Draper collaborator Dr. Tristan Endsley to build out design constraints and risk assessment 
+on working on learning all about this summer. I'd be advised by Leia's first ever PhD student, Dr. Sherrie Holder and a fellow Draper collaborator Dr. Tristan Endsley to build out design constraints and risk assessment 
 plans for autonomous decisions (hint: once again, think ✨space✨). Although the field is different, both Leia and I are excited to work this study into my general thesis about learning the best ways to turn human-decision making 
 into quantifiable metrics to use as a basis for autonomy. More updates to come on that project once we have a better idea on the scope and what exactly we're planning on accomplishing. 
 
